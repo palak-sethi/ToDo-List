@@ -1,7 +1,7 @@
 body {
   margin: 10px auto;
   max-width: 50%;
-  background-color: #ff6161;/
+  background-color: #ff6161;
   font: normal 120% 'century gothic', arial, sans-serif;
 }
 .titleMain{
@@ -95,6 +95,7 @@ input {
 .add:hover {
   background-color: #017374;
 }
+
 .clear{
   align-content: center;
   padding: 10px;
@@ -104,6 +105,10 @@ input {
   background-color: #017374	;
   color: white;
   margin-top: 5%;
+}
+
+.clear:hover {
+  cursor: pointer;
 }
 
 /* Smaller Viewport */
@@ -121,7 +126,7 @@ input {
     box-sizing: border-box;
   }
   ul li {
-    padding: 18px 12px 18px 60px;
+    padding: 18px 12px 18px 20px;
     margin: 1%;
     height: 15%;
     
