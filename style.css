@@ -63,7 +63,7 @@ ul li.checked::before {
   padding: 12px 16px 12px 16px;
 }
 .cross:hover {
-  background-color: #ff6161;
+  background-color: #017374;
   color: white;
 }
 .titleMain{
